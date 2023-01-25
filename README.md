@@ -31,8 +31,6 @@ The reason why I choose K-means and Agglomerative clustering, is simply because 
 
 Although the classes/categories are strongly independent, the pictures are not that kind of independent. For example, the following pictures do have something in common. This is what makes the task difficult. Machine learning methods can learn the shapes and the colors, but fails to learn the details like "2","3","5", and something like this.
 
-<img src="image-20230125015422507.png" alt="image-20230125015422507" style="zoom:50%;" />
-
-<img src="image-20230125015657787.png" alt="image-20230125015657787" style="zoom:50%;" />
+![43 categories](43%20categories.png)
 
 The reason why I choose autoencoders, is also simple. There are 3 ways: 1. Feed-forward networks; 2. autoencoders (a type of feed-forward networks designed for clustering); 3. GAN & VAE. It seems like two ways are about feed-forward networks, and autoencoders are designed for this. Then, I tried autoenders. I think GAN & VAE are also very interesting, maybe next time I will try. 😂
