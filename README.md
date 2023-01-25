@@ -4,6 +4,7 @@ This is jiaojiao's independent work for J7project, the deep clustering task of t
 One can review the summary of literature and also the experiments at the following link(**references of literature and code are also attached in the end**):
 
 https://github.com/JIAOJIAOMEI/ImageClustering_J7project/blob/main/Summary/summary_v6fisc.md
+
 here is a pdf version of the summary with **table of contents**, please find it at the link:
 
 https://github.com/JIAOJIAOMEI/ImageClustering_J7project/blob/main/Summary/summary_v6fisc.pdf
